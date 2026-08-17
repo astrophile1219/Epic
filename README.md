@@ -138,6 +138,7 @@ They are won by:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astrophile1219/Epic/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/astrophile1219/Epic/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +147,5 @@ They are won by:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astrophile1219/Epic/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/astrophile1219/Epic/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
