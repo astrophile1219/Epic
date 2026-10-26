@@ -148,4 +148,8 @@ They are won by:
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astrophile1219/Epic/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/astrophile1219/Epic/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/astrophile1219/Epic/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
